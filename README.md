@@ -77,18 +77,16 @@ I'm still figuring things out, but that's part of the process!
 
 ## Bill Of Materials (BOM)
 
-## Bill of Materials (BOM)
-
-This is the current bill of materials for my custom MIDI keyboard. Since the design is still in progress, some components, quantities, and prices are yet to be confirmed.
-
 | Component | Quantity | Purpose | Price |
 |---|---:|---|---:|
 | Waveshare microcontroller board | 1 | Processes key inputs and handles MIDI communication | $16.78 |
 | Key switches / buttons | 7 | Detect which keys are pressed | $1.71|
 | Custom PCB | 1 | Holds and electrically connects the components | $5.20 |
-| Other electronic components | TBD | Additional components required by the final circuit | TBD |
+| Rotary Encoder EC11  |1 | control volume |$1.47|
+| rgb led | 3 | add lighting to the keyboard | $1.42 |
+| shipping |--- |--- | 8 |
 
-**Total estimated cost:** 
+**Total estimated cost:35** 
 
 
 **(MORE PHOTOS IN THE IMAGES!)**
