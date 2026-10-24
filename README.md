@@ -24,6 +24,7 @@ Sound: The software turns the MIDI information into an actual sound.
 **DAY 1:**
  just started the project, its already way easier because we did PCB's in week 1 but also the guide is crystal clear! I acutally enjoyed and technically just started the schematic sketch.  Also it's the first time iim kinda changing the instructions I'm using XIAO instead of Waveshare so i'd consider that a win! Anyways, its going pretty well so far! *hah I spoke to soon*
  
+ 
 
  **DAY 2:**
  today i finished the schematic up, and used my brain to wire it all. its was pretty hard but i got it and im debating whether i should add more keys or just leave it at 7. My project is quite different from the guide but i hope it works just as well! *im still in the air btw*
