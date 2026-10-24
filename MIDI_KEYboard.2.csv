@@ -1,0 +1,6 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"D1,D2,D3","3","SK6812MINI-E","","","","","${EXCLUDE_FROM_POS_FILES}","LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount","https://www.lcsc.com/datasheet/C5149201.pdf"
+"J1","1","Conn_01x07","","","","","${EXCLUDE_FROM_POS_FILES}","MUS_library:midikeys",""
+"SW1,SW2,SW3","3","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Hackclub Footprints:Kailh Choc Low-Profile Switches",""
+"SW4","1","RotaryEncoder_Switch_MP","","","","","${EXCLUDE_FROM_POS_FILES}","Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm",""
+"U1","1","Waveshare ESP32-S3-ZERO","","","","","${EXCLUDE_FROM_POS_FILES}","Hackclub Footprints:Waveshare ESP32-S3-Zero",""
